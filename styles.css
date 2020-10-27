@@ -3,6 +3,13 @@
     padding: 0;
     margin: 0;
 }
+.Encabezado{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
 h1  {
     color: #46484c;
 }
@@ -12,7 +19,9 @@ h1  {
 }
 
 body{
-    margin: 0;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     background-color: #fffbf7;
 }
 
