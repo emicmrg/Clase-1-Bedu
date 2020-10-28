@@ -59,3 +59,22 @@ body {
     background-color: #025157;
     color: #fff;
 }
+
+.promo-articulo h2{
+    color: #025157;
+}
+.promo-articulo > p {
+    color: #343434;
+}
+.promo-articulo > form {
+    display: flex;
+}
+.promo-articulo > form p {
+    color: #025157;
+}
+.promo-articulo > form button {
+    background-color: #025157;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
