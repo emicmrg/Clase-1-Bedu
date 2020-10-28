@@ -60,6 +60,21 @@ body {
     color: #fff;
 }
 
+.promo {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.promo-video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.promo-video img {
+    margin: auto;
+}
+
 .promo-articulo h2{
     color: #025157;
 }
