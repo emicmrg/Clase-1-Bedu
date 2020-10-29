@@ -26,8 +26,9 @@
     color: #025157;
 }
 .navbar li{
-    padding: 0px 20px;
+    padding: 0px 25px;
     list-style: none;
+    display: inline;
 }
 
 .acciones{
